@@ -9,6 +9,33 @@ dev_addr: '127.0.0.1:1234'
 
 nav:
   - Home: './index.md'
+  - Overview: 
+    - './overview/index.md'
+    - 'Charter': './overview/charter.md'
+    - 'Site Map': './overview/sitemap.md'
+  - Concepts: 
+    - './concepts/index.md'
+    - 'Data Centric Architecture': './concepts/data-centric-architecture.md'
+    - 'Data Mesh Principles': './concepts/dm-principles.md'
+    - 'Domain Ownership': './concepts/domain-ownership.md'
+    - 'Data as a Product': './concepts/data-as-a-product.md'
+    - 'Self-serve Data Platform': './concepts/self-serve-data-platform.md'
+    - 'Federated Governance': './concepts/federated-governance.md'
+    - 'Data Mesh and Data Fabric': './concepts/dm-and-df.md'
+    - 'Conclusions': './concepts/conclusions.md'
+  - Projects: 
+    - './projects/index.md'
+    - Data Product Descriptor Specification: './projects/dpds.md'
+    - Data Store API: './projects/dsapi.md'
+    - Data Product Experience Plane: './projects/dpep.md'
+  - Community: 
+    - './community/index.md'
+    - 'Quantyca': './community/quantyca.md'
+  - Resources: 
+    - 'Data Mesh Resources': './resources/dm-resources.md'
+    - 'External Tools': './resources/tools.md'
+    - 'How to': 
+      - 'build this site': './resources/howto/build-site-doc.md'
 
 ##theme: readthedocs
 theme:
