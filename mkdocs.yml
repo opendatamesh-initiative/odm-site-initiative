@@ -27,7 +27,7 @@ nav:
   - Projects: 
     - './projects/index.md'
     - Data Product Descriptor Specification: './projects/dpds.md'
-    - Data Store API: './projects/dsapi.md'
+    - Data Store API Specification: './projects/dsapi.md'
     - Data Product Experience Plane: './projects/dpep.md'
     - Utility Plane:
       - Blindata Adapter: './projects/blindata-adapter.md'
@@ -99,6 +99,8 @@ extra:
       make our documentation better.
 
   social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/open-data-mesh-initiative/
     - icon: octicons/mail-16
       link: mailto:odm.info@quantyca.it
     - icon: fontawesome/brands/mailchimp
