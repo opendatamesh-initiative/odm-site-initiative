@@ -1,7 +1,10 @@
-# Projects
+# Data Product Experience Plane
 
-At the moment the following projects are being developed under the initiative:
+The Data Product Experience Plane is the core component of the Open Data Mesh Platform.
+It is currently under refinement and will be released in Q2 2023.
 
-- Data Product Descriptor Specification
-- Data Store API
-- Data Product Experience Plane (Core Platform)
+Stay tuned!
+
+[:material-email:](mailto:odm.info@quantyca.it){.md-button--primary .md-button}
+[:simple-linkedin:](https://www.linkedin.com/company/open-data-mesh-initiative/){.md-button--primary .md-button}
+[:simple-mailchimp:](https://mailchi.mp/936d787cac89/open-data-mesh-initiative){.md-button--primary .md-button}
