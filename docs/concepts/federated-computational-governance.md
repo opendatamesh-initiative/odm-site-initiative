@@ -1,3 +1,5 @@
 # Federated Computational Governance
 
-TODO
+As we said, data products should be governed by domain teams, which are responsible for developing, operating, and maintaining them. To ensure consistency and compliance across domains, the governance of data products should be federated, meaning that each domain team operates within a set of common rules and standards globally recognized within the company. This allows domain teams to focus on their specific data needs while ensuring that data products meet the organization's overall standards.
+
+Federated Computational Governance also aims to promote collaboration and information sharing across domains. By establishing a common set of rules and standards, domain teams are encouraged to work together to develop new data products and improve existing ones. Additionally, a central governance team can act as a facilitator, bringing domain teams together to share best practices and coordinate efforts. This approach can lead to greater innovation, as domain experts are encouraged to explore new ways of using data and to collaborate with other experts in different domains.

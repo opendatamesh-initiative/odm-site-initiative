@@ -1,3 +1,9 @@
 # Data as a Product
 
-TODO
+One of the core principles of Data Mesh is the idea of treating data as a product. This means that data should be seen as something that has value to an organization and can be used to create value for others. In order to treat data as a product, it's important to have a clear understanding of who the customers are and what they need from the data. This requires a shift in mindset from simply collecting and storing data to thinking about how it can be packaged and delivered to meet the needs of different stakeholders.
+
+In order to treat data as a product, it's important to have a product mindset when it comes to data. This means thinking about the entire data lifecycle, from data collection and cleaning to analysis and delivery. Just like with any other product, data needs to be well-designed, well-documented, and well-maintained. It also needs to be delivered in a way that is easy to access and use for the end user. By treating data as a product, organizations can create more value from their data and drive better business outcomes.
+
+One of the key benefits of treating data as a product is that it encourages collaboration between different teams and departments within an organization. When data is seen as a shared asset that can be used by different teams to create value, it creates a culture of collaboration and innovation. By breaking down silos and promoting cross-functional teams, organizations can create a more agile and responsive data infrastructure that can adapt to changing business needs. By treating data as a product, organizations can also ensure that data is more transparent, reliable, and trustworthy, which is essential for building trust with stakeholders and ensuring compliance with regulations.
+
+Visit our [Data Product Descriptor Specification (DPDS)](https://dpds.opendatamesh.org) site for [a more technical perspective  about what is a Data Products](https://dpds.opendatamesh.org/concepts/data-product/).
