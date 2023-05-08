@@ -1,5 +1,3 @@
 # Overview
 
-The goal of the Open Data Mesh initiative is to create a platform that allows managing the entire lifecycle of data products, starting from atomic deployment and reaching up to decommissioning, through a series of services implemented both at the data product experience plane and at the infrastructure utility plane level.
-
-![Overview](../images/platform-overview.png)
+If you are unfamiliar with the Open Data Mesh Initiative, this is the perfect starting point. The [charter page](./charter.md) provides a brief overview of the initiative, enabling you to quickly assess whether it is relevant to your interests. If you are intrigued, head over to the [Site Map](./sitemap.md) page where you can access an organized index of all the documentation produced thus far to support the initiative's endeavors. We welcome you to join us on this journey!

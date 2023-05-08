@@ -1,9 +1,5 @@
 # Projects
 
-At the moment the following projects are being developed under the initiative:
+All our projects are released under the Apache 2.0 license on our [GitHub Page :simple-github:](https://github.com/opendatamesh-initiative).
 
-- [Data Product Descriptor Specification](./dpds.md)    [:simple-github:](https://github.com/opendatamesh-initiative/odm-specification-dpdescriptor)
-- [Data Store API Specification](./dsapi.md)    [:simple-github:](https://github.com/opendatamesh-initiative/odm-specification-datastoreapi)
-- [Data Product Experience Plane (Core Platform)](./dpep.md)     :simple-github:
-- [Utility Plane: Blindata Adapter](./blindata-adapter.md)     :simple-github:
-- [Utility Plane: Open Policy Agent Adapter](./opa-adapter.md)     :simple-github:
+Projects are divided into two main categories: specifications and platform services. In the following pages, you will find more information about currently active projects.
