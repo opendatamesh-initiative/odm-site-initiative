@@ -1,4 +1,4 @@
-# Data Product Experience Plane
+# Product Plane Services
 
 The Data Product Experience Plane is the core component of the Open Data Mesh Platform.
 It is currently under refinement and will be released in Q2 2023.
