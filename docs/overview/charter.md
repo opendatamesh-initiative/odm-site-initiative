@@ -25,7 +25,7 @@ These are the key principles that inspire all the activities carried out by the 
 - **Flexible:** The initiative acknowledges that different organizations have varying needs, goals, and resources. As such, it promotes a flexible approach that can accommodate diverse use cases and contexts while adhering to the core principles of data mesh.
 
 ## Contributions
-The initiative was created by [Quantyca](../community/quantyca/), which is still the main sponsor. However, the initiative is open, and new contributors are welcome. Particularly, we are seeking individuals or organizations who want to join us on this journey and contribute in the following possible ways:
+The initiative was created by [Quantyca](../community/quantyca.md), which is still the main sponsor. However, the initiative is open, and new contributors are welcome. Particularly, we are seeking individuals or organizations who want to join us on this journey and contribute in the following possible ways:
 
 - Helping us spread the word and promote the initiative to a broader audience.
 - Using the initiative's deliverables and providing feedback to improve their quality further.
@@ -34,4 +34,4 @@ The initiative was created by [Quantyca](../community/quantyca/), which is still
 - Contributing to the development of existing projects.
 - Proposing the development of new projects consistent with the initiative's goals and principles.
 
-The [Community](../community/) page contains more information on how to contribute to the initiative.
+The [Community](../community/index.md) page contains more information on how to contribute to the initiative.
