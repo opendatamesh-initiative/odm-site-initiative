@@ -50,6 +50,7 @@ theme:
     - navigation.tracking
     - navigation.expand
     - navigation.indexes
+    - navigation.footer
   favicon: favicon.ico
   palette:
     # Palette toggle for light mode
@@ -138,4 +139,4 @@ plugins:
         text: "#FFFFFF"
       
 copyright: >
-  Copyright &copy; 2023 Quantyca s.r.l. - <a href="#__consent">Change cookie settings</a>
+  Copyright &copy; 2023 Quantyca S.p.A. - <a href="#__consent">Change cookie settings</a>
